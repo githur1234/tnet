@@ -1,0 +1,159 @@
+{
+                             "subdomains": [
+                                                          "s1",
+                                                          "s2"
+                             ],
+                             "s2pass": "ff000000ab123456",
+                             "s1pass": "tnet123321123321",
+                             "dev1": {
+                                                          "mode": "none",
+                                                          "ip": "none",
+                                                          "mac": "none",
+                                                          "subdomain": "nano"
+                             },
+                             "dev2": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev3": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev4": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev5": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev6": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev7": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev8": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev9": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev10": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev11": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev12": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev13": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev14": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev15": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev16": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev17": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev18": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev19": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev20": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev21": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev22": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev23": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev24": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "dev25": {
+                                                          "mode": "none",
+                                                          "subdomain": "none",
+                                                          "ip": "none",
+                                                          "mac": "none"
+                             },
+                             "registerpath": "c:/users/yavuz/desktop/register"
+}
